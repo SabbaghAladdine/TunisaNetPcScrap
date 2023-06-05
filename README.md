@@ -1,2 +1,2 @@
 # TunisaNetPcScrap
-this is a jupyterbook that i made to extract the description of each product of tunisianet 
+this is a jupyterNotebook that i made to extract the description of each Laptop of tunisianet 
